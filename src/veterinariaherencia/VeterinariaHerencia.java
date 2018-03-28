@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author meschoyez
+ * @author utku30
  */
 public class VeterinariaHerencia {
     
